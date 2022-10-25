@@ -4,7 +4,7 @@ No momento estou em busca de oportunidades na área de Front end
 Estudando Javascript
 Pronomes: elu/delu
 
-<div align="center">
+<div style="display: inline_block">
   <a href="https://github.com/JoaoAdorno04">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoAdorno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAdorno&layout=compact&langs_count=7&theme=tokyonight"/>
