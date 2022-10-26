@@ -1,8 +1,6 @@
 ## 🤠 Olá, eu sou João Adorno 🤠 
 
-No momento estou em busca de oportunidades na área de Front end
-Estudando Javascript
-Pronomes: elu/delu
+![FRONT END DEVELOPER](https://user-images.githubusercontent.com/109123053/197911938-3a18be31-5046-4b8b-ad58-c8afc979a067.png)
 
 <div style="display: flex; flex-wrap: no-wrap">
   <a href="https://github.com/JoaoAdorno04">
