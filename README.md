@@ -1,6 +1,6 @@
 ## 🤠 Olá, eu sou João Adorno 🤠 
 
-![FRONT END DEVELOPER](https://user-images.githubusercontent.com/109123053/197911938-3a18be31-5046-4b8b-ad58-c8afc979a067.png)
+![Design sem nome (1)](https://user-images.githubusercontent.com/109123053/197912472-88ed65f4-8276-4a1c-8ee6-d7c300745e7c.png)
 
 <div style="display: flex; flex-wrap: no-wrap">
   <a href="https://github.com/JoaoAdorno04">
