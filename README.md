@@ -2,7 +2,7 @@
 
 ![Design sem nome (1)](https://user-images.githubusercontent.com/109123053/197912472-88ed65f4-8276-4a1c-8ee6-d7c300745e7c.png)
 
-<div style="display: flex; justify-content:center">
+<div style="display: flex; justify-content: center">
 <div style="display: flex; flex-wrap: no-wrap">
   <a href="https://github.com/JoaoAdorno04">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=JoaoAdorno04&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
@@ -14,7 +14,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 </div>
-  ##
  
 <div> 
   <a href = "mailto:adorno.contato.2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
