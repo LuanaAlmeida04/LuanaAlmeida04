@@ -1,4 +1,4 @@
-## 🤠 Olá, eu sou João Adorno 🤠 
+## 🤠 Olá mundo, me chamo João Adorno 🤠 
 
 ![Design sem nome (1)](https://user-images.githubusercontent.com/109123053/197912472-88ed65f4-8276-4a1c-8ee6-d7c300745e7c.png)
 
