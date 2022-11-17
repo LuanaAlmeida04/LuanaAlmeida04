@@ -15,10 +15,10 @@
 </div>
 </div>
  
-<div> 
+<div style="margin-bottom: 1em"> 
   <a href = "mailto:adorno.contato.2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-vitor-santos-adorno-almeida-736035245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="wa.me/5575991510011" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <br>
+  </div>
 
 </div>
